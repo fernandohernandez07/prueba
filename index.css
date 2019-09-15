@@ -1,3 +1,4 @@
 colgroup {
     color: cyan;
+    will-change: auto;
 }
